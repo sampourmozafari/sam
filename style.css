@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f3bdb3;
+}
+
+section {
+  height: 100vh;
+}
+
+#sam {
+  /*background-color: #f3bdb3;*/
+  /*background: linear-gradient(to bottom right, #b8dedb, #f3bdb3);*/
+}
+
+#about {
+}
+
+#projects {
+}
+
+#learning {
+}
+
+#contact {
+}
+
+.samwrapper {
+  height: inherit;
+  /*background-image: url(untitled2.svg);
+  background-repeat: no-repeat;
+  background-size: 105%;
+  background-position: center;*/
+}
+
+/*nav {
+  background-color: #ffffff;
+  position: fixed;
+  left: 0;
+  z-index: 1000;
+  margin: 2em 0;
+  padding: 1em;
+  font-size: 0.9em
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}*/
+
+/*ul li:nth-child(1) a {
+  border-right: 2px solid #f3bdb3;
+}*/
+
+/*ul li:nth-child(1) a:hover {
+  opacity: 0.5;
+}*/
+
+/*li {
+  display: inline-block;
+  padding: 0 2em;
+}
+
+a {
+  text-decoration: none;
+  color: #333333;
+}*/
+
+/*a:hover {
+  opacity: 0.5;
+}*/
+
+.menuitem {
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+.logo {
+  margin: 0;
+  font-size: 1em;
+  color: #;
+}
+
+.menuitem:hover {
+  text-decoration: line-through;
+}
+
+.one {
+  position: fixed;
+  top: 2em;
+  left: 2em;
+}
+
+.two {
+  position: fixed;
+  top: 2em;
+  right: 2em;
+}
+
+.three {
+  position: fixed;
+  bottom: 2em;
+  left: 2em;
+}
+
+.four {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+}
+
+.five {
+  position: fixed;
+  top: 3.1em;
+  left: 49.4%;
+  transform: rotate(-45deg);
+  color: #ffffff;
+}
+
+.samcontentcontainer {
+  height: inherit;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  font-family: "Montserrat";
+  font-size: 2.5em;
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+/*p a {
+  font-size: 0.5em;
+  color: #ffffff;
+  border-bottom: 4px solid #b8dedb;
+}
+
+p a:hover {
+  opacity: 1;
+}*/
+
+.abouttitle {
+  color: #ffffff;
+}
+
+.smalltext {
+  position: fixed;
+  top: 47%;
+  right: -3.5em;
+  font-size: 0.8em;
+  transform: rotate(-90deg);
+}
+
+.aboutwrapper {
+  height: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutcontentcontainer {
+  padding: 0 15em;
+}
+
+.abouttext {
+  font-size: 1.5em;
+  line-height: 2;
+}
