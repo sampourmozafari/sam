@@ -245,3 +245,18 @@ section {
 .learningtext {
   font-size: 1.6em;
 }
+
+#jumpmenu2 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#jumpmenu2 li {
+  display: inline-block;
+  padding-right: 2em;
+}
+
+#jumpmenu2 a{
+  color: #4caf50;
+}
