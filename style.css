@@ -118,7 +118,7 @@ p {
 }
 
 .contact {
-  display: flex;
+  display: inline-flex;
   align-items: center;
 }
 
